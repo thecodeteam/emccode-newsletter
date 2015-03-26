@@ -1,8 +1,8 @@
 ###Archive of the weekly EMC {code} Newsletter###
 
-This repo is a little bit silly, but the service we use to publish our weekly newsletter decided to abandon their archiving service, so we're just going to [post all the newsletter links here](https://github.com/bgracely/emccode-newsletter/blob/master/archive-list.md). 
+This repo is a little bit silly, but the service we use to publish our weekly newsletter decided to abandon their archiving service, so we're just going to post all the newsletter links here. 
 
-If anyone would like to sign up for the weekly newsletter, here is [the signup link](http://bit.ly/emccodesignup).
+If anyone would like to sign up for the weekly newsletter, [here is the signup link](http://bit.ly/emccodesignup). It's free and comes out every Tuesday. We won't use your email address for any promotional materials or marketing lists.
 
 ###EMC {code} Newsletter Archive###
 Each week, the EMC {code} newsletter brings todgether a mix of industry news, suggested learning, new projects from 
