@@ -18,4 +18,4 @@ EMC {code} and interesting new projects from across the EMC {code} community.
 * <strong>[Week of 3/23/2015](http://bit.ly/code24Mar2015)</strong> - Conference Season, EMC CloudFoundry Dojo, DevOps/Kubernetes/AppDev/OpenStack, OpenHatch
 * <strong>[Week of 3/31/2015](http://bit.ly/code31Mar2015)</strong> - Tinder for EMC {code}, DevOps @ EMC World, Automate XtremIO, DevOps/Containers/ModernApps/KidsCoding, Dzone Developer Programs
 * <strong>[Week of 4/7/2015](http://bit.ly/code7Apr2015)</strong> - GeekWeek Training, CF on OpenStack, DevOps/Containers/Kubernetes/OpenSource, Infographics and Network Automation
-* <strong>[Week of 4/14/2015](http://bit.ly/code14Apr2015)</strong> DevOps @ EMCW Speakers, ViprPy, Containers/MicroServices/PaaS, Learn Git + DevOps Days 
+* <strong>[Week of 4/14/2015](http://bit.ly/code14Apr2015)</strong> - DevOps @ EMCW Speakers, ViprPy, Containers/MicroServices/PaaS, Learn Git + DevOps Days 
