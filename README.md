@@ -21,3 +21,5 @@ EMC {code} and interesting new projects from across the EMC {code} community.
 * <strong>[Week of 4/14/2015](http://bit.ly/code14Apr2015)</strong> - DevOps @ EMCW Speakers, ViprPy, Containers/MicroServices/PaaS, Learn Git + DevOps Days 
 * <strong>[Week of 4/21/2015](http://bit.ly/code21Apr2015)</strong> - Boston DevOps, XSnapCourier, DevOps/Containers/OpenSource/ModernApps, DevOps+Business
 * <strong>[Week of 4/28/2015](http://bit.ly/code28Apr2015)</strong> - EMC Code SaaS Tools, Project Qurt, Containers/DevOps/ModernApps, Spring and GitHub Training
+* <strong>[Week of 5/7/2015](http://bit.ly/code7May2015)</strong> - Tweeting Photobooth, CoprHD Project, OpenSource/Containers/ModernApps/, Coding Bootcamps
+* <strong>[Week of 5/11/2015](http://bit.ly/code11May2015)</strong> - EMC World Review & Presentations, Project RexRay & Dogged, DevOps/Containers/ModernDev, LearnNode/Anti-Patterns 
