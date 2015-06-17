@@ -27,3 +27,4 @@ EMC {code} and interesting new projects from across the EMC {code} community.
 * <strong>[Week of 5/26/2015](http://bit.ly/code26May2015)</strong> - OpenStack Summit review, Helios Burn, DevOps/Containers/ModernDev 
 * <strong>[Week of 6/02/2015](http://bit.ly/code2June2015)</strong> - DockerCon, MosaicMe, DevOps/Containers/ModernDev/OpenSource, Tips for Speaking at Developer Events 
 * <strong>[Week of 6/09/2015](http://bit.ly/code9June2015)</strong> - ContainerDays Boston, CoprHD Open Source, DevOps/Containers/ModernDev/, Tips for Operational Efficiency 
+* <strong>[Week of 6/16/2015](http://bit.ly/code16June2015)</strong> - DockerCon, CoprHD + Vagrant, Python Developers in BusinessWeek, vStriker, DevOps/Containers/ModernDev/, Facebook + Open Source
