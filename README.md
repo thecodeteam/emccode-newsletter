@@ -8,7 +8,7 @@ If anyone would like to sign up for the weekly newsletter, [here is the signup l
 Each week, the EMC {code} newsletter brings todgether a mix of industry news, suggested learning, new projects from 
 EMC {code} and interesting new projects from across the EMC {code} community.
 
-* **[Week of 7/6/20150](http://bit.ly/code7july2015)** - #GopherCon, #ContainerCon and other #DevOps newsletters you can't miss 
+* **[Week of 7/6/2015](http://bit.ly/code7july2015)** - #GopherCon, #ContainerCon and other #DevOps newsletters you can't miss 
 
 * **[Week of 6/30/2015](http://bit.ly/code30June2015)** - CodeCommunity, DockerCon Hachathon, DevOps training videos, Hot Container Startups, Bi-Modal IT
 * **[Week of 6/23/2015](http://bit.ly/code23June2015)** - DockerCon, Flocker, Project Rex-Ray,, DevOps/Containers/ModernDev/, DevOps Survey Results
