@@ -8,6 +8,8 @@ If anyone would like to sign up for the weekly newsletter, [here is the signup l
 Each week, the EMC {code} newsletter brings todgether a mix of industry news, suggested learning, new projects from 
 EMC {code} and interesting new projects from across the EMC {code} community.
 
+* **[Week of 7/27/2015](http://bit.ly/code27july2015)** 25th issue! Top 25 code projects and OSCON recap.
+
 * **[Week of 7/13/2015](http://bit.ly/code14july2015)** - Welcoming Cloud Foundry developer evangelist Stormy Peters, GopherCon recap, and what community means.
 
 * **[Week of 7/6/2015](http://bit.ly/code7july2015)** - #GopherCon, #ContainerCon and other #DevOps newsletters you can't miss 
