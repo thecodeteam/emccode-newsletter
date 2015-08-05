@@ -8,7 +8,7 @@ If anyone would like to sign up for the weekly newsletter, [here is the signup l
 Each week, the EMC {code} newsletter brings todgether a mix of industry news, suggested learning, new projects from 
 EMC {code} and interesting new projects from across the EMC {code} community.
 
-* **[Week of 8/4/2015](http://bit.ly/code4august2015)** storage plug-ins for #docker, Puppet-VNX and national Sys Admin day 
+* **[Week of 8/4/2015](http://bit.ly/code4august2015)** - storage plug-ins for #docker, Puppet-VNX and national Sys Admin day 
 
 * **[Week of 7/27/2015](http://bit.ly/code27july2015)** - 25th issue! Top 25 code projects and OSCON recap.
 
