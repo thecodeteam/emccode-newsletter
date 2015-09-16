@@ -8,6 +8,11 @@ If anyone would like to sign up for the weekly newsletter, [here is the signup l
 Each week, the EMC {code} newsletter brings todgether a mix of industry news, suggested learning, new projects from 
 EMC {code} and interesting new projects from across the EMC {code} community.
 
+
+* **[Week of 9/15/2015](http://campaign.r20.constantcontact.com/render?ca=f223b78d-4327-46e6-b83c-7d19694414fc&c=7a754c60-b15d-11e4-98f3-d4ae528e486a&ch=7a7bb500-b15d-11e4-98f3-d4ae528e486a)** - CodeCommunity is growing, REX-Ray 0.2 released
+
+* **[Week of 8/31/2015](http://bit.ly/code31aug2015)** - ContainerCon, Docker Global Hack Days, and Kinetic from the Linux Foundation
+
 * **[Week of 8/17/2015](http://bit.ly/code18aug2015)** - ContainerCon, Docker Global Hack Days, and Kinetic from the Linux Foundation
 
 * **[Week of 8/4/2015](http://bit.ly/code4august2015)** - storage plug-ins for #docker, Puppet-VNX and national Sys Admin day 
