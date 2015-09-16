@@ -13,7 +13,7 @@ EMC {code} and interesting new projects from across the EMC {code} community.
 
 * **[Week of 9/8/2015](http://campaign.r20.constantcontact.com/render?ca=9f98f27c-4a36-483b-a1b9-df780e8ad89c&c=4e219a80-8ba4-11e4-a87c-d4ae52844279&ch=4e3bd940-8ba4-11e4-a899-d4ae52844279)** - The Open Roadmap, VMworld 2015, and new open source projects
 
-* **[Week of 8/31/2015](http://bit.ly/code31aug2015)** - ContainerCon, Docker Global Hack Days, and Kinetic from the Linux Foundation
+* **[Week of 8/31/2015](http://bit.ly/code31aug2015)** - ContainerDays NYC and Run your stateful apps with Mesos and Docker
 
 * **[Week of 8/17/2015](http://bit.ly/code18aug2015)** - ContainerCon, Docker Global Hack Days, and Kinetic from the Linux Foundation
 
