@@ -8,6 +8,8 @@ If anyone would like to sign up for the weekly newsletter, [here is the signup l
 Each week, the EMC {code} newsletter brings todgether a mix of industry news, suggested learning, new projects from 
 EMC {code} and interesting new projects from across the EMC {code} community.
 
+* **[Week 10/6/2015](http://t.co/IBqXzLsMo4)** Docker volume drivers, blameless postmortems and new training videos
+*
 * **[Week of 9/29/2015](http://t.co/Lz9mVKRzM5)** - Docker 1.9, REX-Ray, Experimental Extensions and State of DevOps
 
 * **[Week of 9/15/2015](http://campaign.r20.constantcontact.com/render?ca=f223b78d-4327-46e6-b83c-7d19694414fc&c=7a754c60-b15d-11e4-98f3-d4ae528e486a&ch=7a7bb500-b15d-11e4-98f3-d4ae528e486a)** - CodeCommunity is growing, REX-Ray 0.2 released
